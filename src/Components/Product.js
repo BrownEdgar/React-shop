@@ -15,4 +15,4 @@ const Product = (props) => {
       
      );
 }
-export default withRouter(Product);
+export default Product;
